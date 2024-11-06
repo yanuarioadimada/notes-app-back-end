@@ -28,4 +28,7 @@ const routes = [
   },
 ];
 
+// giving notes
+
+
 module.exports = routes;

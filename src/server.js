@@ -11,7 +11,7 @@ const init = async () => {
       },
     },
   });
-
+//tes notes
   server.route(routes);
 
   await server.start();

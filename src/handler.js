@@ -5,7 +5,6 @@ const addNoteHandler = (request, h) => {
   const { title, tags, body } = request.payload;
 
   const id = nanoid(16);
-  // eslint-disable-next-line no-const-assign
   const createdAt = new Date().toISOString();
   const updatedAt = createdAt;
 

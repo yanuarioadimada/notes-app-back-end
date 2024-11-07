@@ -27,5 +27,5 @@ const routes = [
     handler: deleteNoteByIdHandler,
   },
 ];
-
+// method: 'PUT',
 module.exports = routes;

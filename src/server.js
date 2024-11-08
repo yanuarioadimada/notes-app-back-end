@@ -21,3 +21,5 @@ const init = async () => {
 
 
 init();
+
+//init eslintmjs
